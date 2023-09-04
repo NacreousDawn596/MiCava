@@ -1,0 +1,4 @@
+function glfwc(){
+  cc `pkg-config --cflags glfw3` -o $1.a $1 `pkg-config --static --libs glfw3` -lasound -lGL -lGLEW -lstdc++ -ldl -ljsoncpp
+  ./$1.a
+}
