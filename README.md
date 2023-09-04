@@ -30,3 +30,6 @@ then execute it:
 
 # Enjoy!! 
 *don't judge my poor coding skills, I don't usually practice C++ a lot + I've just read glfw3 documentation about 5days ago lol*
+
+### Disclamer:
+it works on my laptop (Gnome on wayland in archlinux) at least :')
